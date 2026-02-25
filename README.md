@@ -27,7 +27,8 @@ This repository is suitable for:
 ## Requirements
 
 - R (latest version recommended)
-- RStudio (optional but strongly recommended)
+- RStudio (strongly recommended)
+- ⚠️ Install R first and then RStudio not in reverse order.
 
 ---
 This project is intended for educational use.  
